@@ -16,13 +16,13 @@ class DatabaseSeeder extends Seeder
     {
         $dataUser = [
             [
-                'nama' => 'User Example',
+                'nama' => 'User',
                 'nisn' => '124',
                 'password' => bcrypt('12345678'),
                 'level' => 'user',
             ],
             [
-                'nama' => 'Admin Example',
+                'nama' => 'Admin',
                 'nisn' => '123',
                 'password' => bcrypt('12345678'),
                 'level' => 'admin',

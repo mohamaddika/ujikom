@@ -11,8 +11,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/assalaam.png" rel="icon">
+
 
   <!-- Google Fonts -->
   <link href="https://fonts.gstatic.com" rel="preconnect">
@@ -53,7 +53,7 @@
                 <div class="card-body">
 
                   <div class="pt-4 pb-2">
-                    <h5 class="card-title text-center pb-0 fs-4">fill in to enter </h5>
+                    <h5 class="card-title text-center pb-0 fs-4">Login</h5>
                   </div>
 
                   <form class="row g-3 needs-validation" action="{{url('/login')}}" method="POST">
@@ -67,7 +67,7 @@
                     </div>
 
                     <div class="col-12">
-                      <label for="password" class="form-label">Password</label>
+                      <label for="password" class="form-label">PASSWORD</label>
                       <input type="password" name="password" class="form-control" id="password" required>
                       <div class="invalid-feedback">Please enter your password!</div>
                     </div>

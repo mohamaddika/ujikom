@@ -4,7 +4,7 @@
     <ul class="sidebar-nav" id="sidebar-nav">
 
       <li class="nav-item">
-        <a class="nav-link " href="{{url('/pemilsos')}}">
+        <a class="nav-link collapsed" href="{{url('/pemilsos')}}">
           <i class="bi bi-grid"></i>
           <span>DASHBOARD</span>
         </a>

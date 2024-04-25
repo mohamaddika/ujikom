@@ -4,10 +4,10 @@
 {{-- main --}}
     <br> <br> <br>
     <div class="pagetitle">
-        <h1 style="text-align: center">DAFTAR CALON KETUA & WAKIL KETUA OSIS <br> SMKS PASUNDAN 2 CIANJUR</h1>
+        <h1 style="text-align: center">DAFTAR CALON KETUA & WAKIL KETUA OSIS <br> SMK ASSALAAM BANDUNG</h1>
       </div><!-- End Page Title -->
     <section class="section">
-      <div class="row" >
+      <div class=" row" style="margin-left:5rem">
         <div class="col-lg-1">
         </div>
         {{-- <form action="{{ url('/pemilsos/vote', $item->id) }}" method="POST">
@@ -18,7 +18,7 @@
             <div class="card">
               <div class="card-body">
                 <h2 class="card-title" style="text-align: center"><b>{{$item->nomor}}</b><br>{{$item->nm_kandidat}}</h2>
-  
+
                 <!-- Slides only carousel -->
                 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
                   <div class="carousel-inner">
@@ -37,7 +37,7 @@
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="flush-headingOne">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                      Visi 
+                      Visi
                     </button>
                   </h2>
                   <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
@@ -49,7 +49,7 @@
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="flush-headingOne">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                      Misi 
+                      Misi
                     </button>
                   </h2>
                   <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">

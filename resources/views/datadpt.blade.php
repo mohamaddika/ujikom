@@ -11,7 +11,7 @@
 
             <div class="card">
                 <div class="card-body">
-                  <h5 class="card-title">Tamabah Daftar Pemilih Tetap</h5>
+                  <h5 class="card-title">Tambah Daftar Pemilih Tetap</h5>
     
                   <!-- Horizontal Form -->
                   <form action="{{url('/datadpt/post')}}" method="POST" class="row g-3">
